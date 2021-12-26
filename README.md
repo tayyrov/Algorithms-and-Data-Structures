@@ -6,6 +6,7 @@
 |------|
 |Sorting|
 |Stacks & Queues|
+|Hash Maps|
 |Trees|
 |Graphs|
 |Linked Lists|
